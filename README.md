@@ -35,28 +35,11 @@ Wir haben SageMath mit Python verwendet, um:
 - Bei Punkten auf dem Einheitskreis ist genau 1/4 aller möglichen Dreiecke spitzwinklig
 - Die Wahrscheinlichkeit für spitzwinklige Dreiecke variiert je nach Zufallsprozess erheblich
 
-## Code ausführen
-
-Um unseren Code zu verwenden:
-
-```bash
-# Repository klonen
-git clone [Repository-URL]
-cd [Repository-Name]
-
-# SageMath-Notebook starten (falls installiert)
-sage -n jupyter
-
-# Alternativ in Google Colab mit SageMath-Kernel ausführen
-# Datei hochladen und Kernel auf SageMath umstellen
-```
 
 ## Dateien im Repository
 
-- `dreiecke_simulation.ipynb`: Hauptnotizbuch mit allen Simulationen und Berechnungen
-- `visualisierungen/`: Ordner mit erstellten Grafiken
-- `bericht.pdf`: Zusammenfassung unserer Ergebnisse und mathematischen Herleitungen
-
+- `Dreiecke.ipynb`: Hauptnotizbuch mit allen Simulationen und Berechnungen
+weitere: Grafiken
 ## Persönliches Fazit
 
 Die Arbeit an diesem Projekt war besonders interessant, da wir mathematische Theorie mit computergestützten Simulationen verbinden konnten. Die Diskrepanz zwischen intuitivem Gefühl und tatsächlichen Wahrscheinlichkeiten bei der Dreiecksbildung war überraschend. Besonders die Aufgabe mit dem Einheitskreis und dem eleganten Beweis für den 1/4-Anteil spitzwinkliger Dreiecke fand ich faszinierend.
